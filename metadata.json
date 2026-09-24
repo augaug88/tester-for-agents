@@ -1,0 +1,6 @@
+{
+  "name": "ParkSG - Smart Urban Mobility & Parking Intelligence",
+  "description": "Real-time Singapore carpark availability, dynamic tariffs, EV fast charger status, and ERP gantry navigation powered by live LTA & URA data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
